@@ -1,5 +1,5 @@
 {
-  "name": "gdax",
+  "name": "gdax-synced",
   "version": "0.4.3",
   "author": "Coinbase",
   "bugs": "https://github.com/coinbase/gdax-node/issues",
